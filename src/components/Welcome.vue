@@ -8,7 +8,7 @@
     </li>
     <li><a href="http://konnection.ca" target="_blank">I occassionally make loud noises.</a></li>
   </ul>
-  
+
 </template>
 
 <script>
