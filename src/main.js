@@ -14,6 +14,10 @@ new Vue({
 
 
   components: {App}
+
+  
 })
+
+
 
 
