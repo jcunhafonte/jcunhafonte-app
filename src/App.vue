@@ -16,8 +16,9 @@
 
   body {
     margin: 0;
-    background: $white url("./assets/background.png");
-    font-family: 'Open Sans', sans-serif;
-    color: $black;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    color: $white;
+    background: $white;
   }
 </style>

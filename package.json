@@ -2,7 +2,7 @@
   "name": "jcunhafonte",
   "version": "1.0.0",
   "description": "Personal website",
-  "author": "Jose Fonte <jcunhafonte@gmail.com>",
+  "author": "José Cunha Fonte <jcunhafonte@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
